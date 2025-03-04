@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Maharaja!<br>A passionate software developer with a love for coding, technology, and problem-solving. 🚀<br><br>💻 Skills & Expertise:<br><br>Programming: Python, JavaScript, Java<br>Web Development: React, Node.js<br>Cloud Engineering: AWS, GCP<br>Database Management: SQL<br>🌱 Currently Learning: Machine Learning, Data Science<br><br>🔍 Interests:<br><br>Exploring new technologies<br>Building innovative solutions to complex challenges<br>Contributing to open-source projects<br>
+👋 Hi, I'm Maharaja!<br>A passionate software developer with a love for coding, technology, and problem-solving. 🚀<br><br>💻 Skills & Expertise:<br><br>Programming: Python, JavaScript, Java<br>Web Development: React, Node.js<br>Cloud Engineering: AWS, GCP<br>Database Management: SQL<br>🌱 Currently Learning: AI, Machine Learning, Data Science<br>https://docs.google.com/spreadsheets/d/1iKQii8wfRPqZtr_7rBqznkLd4ZZ-DojA8yJH0aJsq1U/edit?usp=sharing<br>🔍 Interests:<br><br>Exploring new technologies<br>Building innovative solutions to complex challenges<br>Contributing to open-source projects<br>
 
 
 ## 🌐 Socials:
